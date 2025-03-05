@@ -45,11 +45,11 @@ passions:
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=radical&hide_border=true&fire=DD2727"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=igorcol&theme=radical&hide_border=true&fire=DD2727"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=igorcol&show_icons=true&theme=radical"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcol&layout=compact&theme=radical"/>
 </p>
 
 ---
