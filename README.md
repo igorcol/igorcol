@@ -10,20 +10,19 @@
 <h2 align="center">🚀 Sobre Mim</h2>
 
 ```yaml
-name: Igor Colombini
-title: Full-Stack Developer
+Igor Colombini
+Full-Stack Developer
+
 specialties: 
   - TypeScript
   - React | Next.js
   - React Native
   - Python
   - Backend & API Design
-  - Game Development
+
 passions:
-  - Building Scalable Systems
-  - Automation & AI
-  - Open Source
-  - Teaching & Mentorship
+  - Create, Innovate and Lead
+  - Backend
 ```
 
 ---
