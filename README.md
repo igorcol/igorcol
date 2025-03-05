@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDZicXhyODNsc3duY3d6b2U5cjNjenAyY21lbmRwem5rMjVsZnU3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0V4hhkD1fpdAaMvIO6/giphy.gif" width="200"/>
 </p>
 
 <h2 align="center">🚀 Sobre Mim</h2>
