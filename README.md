@@ -10,7 +10,7 @@
 <h2 align="center">🚀 Sobre Mim</h2>
 
 ```yaml
-name: Fábio
+name: Igor Colombini
 title: Full-Stack Developer
 specialties: 
   - TypeScript
