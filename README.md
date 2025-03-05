@@ -55,20 +55,25 @@ passions:
 ---
 
 ### 🏆 Meus Projetos
-🔥 **[Sistema de Check-In para Eventos](https://github.com/seu-usuario/checkin-system)**
-> Automação de check-in para eventos com QR Code.
+🔥 **[App para sistema de Check-In em Eventos](https://github.com/igorcol/ceod-checkin.git)** - (Rep. Privado)
+> Leitura de ingressos, exibição personalizada de dados e confirmação de presença.
 
-🤖 **[Bot Discord](https://github.com/seu-usuario/discord-bot)**
-> Integração de bot para Discord com APIs e automação.
+🔥 **[API para o sistema de Check-In em Eventos](https://github.com/igorcol/ceod_api_v2.git)**
+> Comunicação com o banco de dados.
+
+🚀 **[Sistema de Plotagem de gráfico para foguetes caseiros](https://github.com/igorcol/FRockets-Telemetry-ReactJS.git)**
+> Feito para um grupo de projetos da faculdade -> @facensrockets.
+
+🖥️ **[API Completa - Estudo](https://github.com/igorcol/full-api-course.git)**
+> Feito para estudar e aprofundar meus conhecimentos no desenvolvimento de APIs e boas praticas de programação backend.
 
 ---
 
 ### 📫 Entre em Contato
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/seu-usuario)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/seu-usuario)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:seuemail@email.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/igorcol)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:igor.colombini@gmail.com)
 
 ---
-**⚡ Fun Fact:** _Coding is like magic. You write weird stuff, and things happen!_ 🎩✨
+**⚡ _Coding is like casting a spell. You do weird stuff, and things happen!_ 🎩✨
 
 ---
