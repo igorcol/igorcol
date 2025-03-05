@@ -38,7 +38,7 @@ passions:
 
 #### 🏗️ Ferramentas & DevOps
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![Jest](https://img.shields.io/badge/-Jest-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Jest](https://img.shields.io/badge/-Jest-2496ED?logo=Jest&logoColor=white&style=for-the-badge)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge)
 
 ---
