@@ -1,7 +1,7 @@
 
-<div align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=881e94&width=600&lines=Igor+%7C+Full-Stack+Developer;TypeScript+%7C+React+%7C+Next.js+%7C+Python;Building+Efficient+and+Scalable+Solutions" alt="Typing SVG" />
-</div>
+</h1>
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDZicXhyODNsc3duY3d6b2U5cjNjenAyY21lbmRwem5rMjVsZnU3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0V4hhkD1fpdAaMvIO6/giphy.gif" width="200"/>
