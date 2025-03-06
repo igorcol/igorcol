@@ -74,6 +74,7 @@ passions:
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:igor.colombini@gmail.com)
 
 ---
-**⚡ _Coding is like casting a spell. You do weird stuff, and things happen!_ 🎩✨
+⚡ _Coding is like casting a spell. You do weird stuff, and things happen!_ 🎩✨
 
+> [VSCODE CONFIG](https://vscode.dev/editor/profile/github/d8eee74b5e07d3cb899eb143e069482e?vscode-lang=pt-br)
 ---
