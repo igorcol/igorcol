@@ -64,7 +64,7 @@ passions:
 🚀 **[Sistema de Plotagem de gráfico para foguetes caseiros](https://github.com/igorcol/FRockets-Telemetry-ReactJS.git)**
 > Feito para um grupo de projetos da faculdade -> @facensrockets.
 
-🖥️ **[API Completa - Estudo](https://github.com/igorcol/full-api-course.git)**
+🖥️ **[API Completa em NODE + TS - Estudo](https://github.com/igorcol/full-api-course.git)**
 > Feito para estudar e aprofundar meus conhecimentos no desenvolvimento de APIs e boas praticas de programação backend.
 
 ---
