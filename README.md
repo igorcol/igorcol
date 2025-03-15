@@ -13,12 +13,14 @@
 Igor Colombini
 Full-Stack Developer
 
-specialties: 
+specialties:
+  - Node JS
+  - React | Next.js | React Native
+  - Nest JS
+  - JavaScript
   - TypeScript
-  - React | Next.js
-  - React Native
   - Python
-  - Backend & API Design
+  - postgre | SQL | noSQL
 
 passions:
   - Create, Innovate and Lead
