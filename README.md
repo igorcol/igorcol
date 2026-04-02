@@ -6,7 +6,7 @@
 
 ## 🧠 Sobre mim
 
-Desenvolvedor Front-end especializado em **Next.js, React e TypeScript**, com visão de produto e histórico real de entrega. Não construo só interfaces construo sistemas que resolvem problemas de negócio.
+Desenvolvedor Fullstack especializado em **Next.js, React, TypeScript e NestJS (APIs)**, com visão de produto e histórico real de entrega. Não construo só interfaces construo sistemas que resolvem problemas de negócio.
 
 Nos últimos 3 anos desenvolvi um **SaaS B2B completo de gerebciamento de congressos**, Uma **Plataforma E-commerce completa**, um **dashboard de telemetria em tempo real** e sistemas de automação para comunidades. Fora do código, ajudei na coordenação eventos estaduais para **+1.400 pessoas** como Mestre Conselheiro Regional da Ordem DeMolay o que me deu visão de gestão, liderança sob pressão e comunicação entre áreas.
 
